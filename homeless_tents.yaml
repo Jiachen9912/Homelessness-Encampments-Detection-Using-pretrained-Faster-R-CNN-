@@ -1,0 +1,9 @@
+# homeless_tents.yaml
+
+path: C:/Users/Jiachen9912/PycharmProjects/ImageLabeling/yolov5/yolov5_dataset
+
+train: images/train
+val: images/val
+
+nc: 1  # 根据你项目的类别数修改
+names: ['tent']  # 替换为你的类别名
